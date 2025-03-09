@@ -1,4 +1,4 @@
-# Fake Windows Error Spammer
+# Fake Error Spammer
 
 ## Features
 - Spawns lots of fake error pop-ups   
